@@ -17,9 +17,9 @@ I enjoy learning new things that allow me understand how the world around me wor
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/php.svg" alt="Unity" width="40" height="40"/>
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/wordpress.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/laravel.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/laravel.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/blender.svg" alt="Blender" width="40" height="40"/>
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/figma.svg" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/luisrico5562/luisrico5562/blob/main/icons/photoshop.svg" alt="Photoshop" width="40" height="40"/>
